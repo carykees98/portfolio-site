@@ -1,0 +1,21 @@
+body {
+  font-size: 22px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#header {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#container {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+#toc {
+  margin-right: 1rem;
+}
